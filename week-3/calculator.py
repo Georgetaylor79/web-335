@@ -1,20 +1,22 @@
-first= int(input("First number: "))
-second = int(input("Second number: "))
-add = first + second
-print("Total: " + str(add))
 
-first= int(input("First number: "))
-second = int(input("Second number: "))
-Subtract = first - second
-print("Total: " + str(Subtract))
+def add(x,y):
+    return x + y
 
-first= int(input("First number: "))
-second = int(input("Second number: "))
-divide = first / second
-print("Total: " + str(divide))
+def subtract(x,y):
+    return x - y
 
-first= int(input("First number: "))
-second = int(input("Second number: "))
-multiply = first * second
-print("Total: " + str(multiply))
+def divide(x,y):
+    return x / y
+
+def multiply(x,y):
+    return x * y
+
+num1 = 4
+num2 = 4
+
+
+print(num1,"+", num2,"=",add(num1,num2))
+print(num1,"-", num2,"=",subtract(num1,num2))
+print(num1,"/", num2,"=",divide(num1,num2))
+print(num1,"*", num2,"=",multiply(num1,num2))
 
