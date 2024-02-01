@@ -1,0 +1,104 @@
+/**
+    Assignment 1 - Environment Setup
+ */
+ body {
+    margin: 0;
+    font-family: 'Oswald', Verdana, Arial, sans-serif; 
+}
+
+hr{
+    margin-top:   50px;
+    margin-left:  100px;
+    margin-right: 100px;
+}
+h1,h2,h3,h4 {
+    background-color: #3C275A;
+    color:#fff;
+    border-style: solid;
+    border-color: #d6a800;
+    border-width: 1px;
+    padding: 10px;
+}
+
+.titlename {
+    background-color: #3c275a; 
+    margin-top:   50px;
+    margin-left:  100px;
+    margin-right: 100px;
+    
+} 
+
+
+.Coursename {
+    background-color: #3c275a; 
+    margin-top:   50px;
+    margin-left:  100px;
+    margin-right: 100px;
+   
+}    
+.Assignment-title {
+    background-color: #3c275a; 
+    margin-top:   50px;
+    margin-left:  100px;
+    margin-right: 100px;
+   
+}
+.Assignment-content {
+    color: #3c275a;
+    font-weight: 400;
+    margin-top:   50px;
+    margin-left:  100px;
+    margin-right: 100px;
+}
+
+.Project-title {
+    background-color: #3c275a; 
+    margin-top:   50px;
+    margin-left:  100px;
+    margin-right: 100px;
+   
+}
+.project-cont {
+    color: #4F3674
+    
+}
+.Important-Links {
+   
+    background-color: #3c275a; 
+    margin-top:   50px;
+    margin-bottom: 10px;
+    margin-left:  100px;
+    margin-right: 100px;
+   
+}
+.Important-Links a{
+    text-decoration: none;
+}
+.listlinks{
+    margin-top:   50px;
+    margin-left:  100px;
+    margin-right: 100px; 
+
+}
+.linkss a{
+    color:#4F3674
+    
+}
+.listlinks a{
+    color: #4F3674
+}
+a:hover{
+    color:#d6a800
+    
+}
+a:visited{
+    color: #3c275a
+}
+a{
+    text-decoration: none;
+}
+.project-cont{
+    margin-top:   50px;
+    margin-left:  100px;
+    margin-right: 100px; 
+}
