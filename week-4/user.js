@@ -1,7 +1,7 @@
 /**
 	Title: users.js
     Author: Professor Krasso
-    Date: 11 August 2022
+    Date: 04 February 2024
     Description: MongoDB Shell Scripts for the users collection.
  */
 
