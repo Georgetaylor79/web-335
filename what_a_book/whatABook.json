@@ -1,0 +1,15 @@
+{
+    "Book":{
+      "title": "Where the Crawdads Sing",
+      "genre": "Mystery & Fiction",
+      "author": "Delia Owens",
+    }
+  },
+  {
+    "Customer": {
+      "firstName": "Olivia",
+      "LastName": "Davis",
+      "wishlist:": [{}]
+    }
+  }
+]
