@@ -1,7 +1,7 @@
 /**
 	Title: houses.js
     Author: Professor Krasso
-    Date: 18 March 2024
+    Date: 18 February 2024
     Description: MongoDB Shell Scripts for the houses and students collections.
  */
 
